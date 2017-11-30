@@ -1,0 +1,350 @@
+@font-face {
+    font-family: Formular; /* Имя шрифта */
+    src: url(шрифт/Formular-Medium.otf); /* Путь к файлу со шрифтом */
+   }
+.logo {
+	width: 204px;
+  height: 60px;
+  object-fit: contain;
+  text-align: left;
+  float: left;
+  margin-left: -54px;
+}
+#vkusnieceni {
+	width: 246.6px;
+  height: 35px;
+  font-family: Formular;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  color: #80bb3d;
+}
+.idea {
+  width: 240.6px;
+  height: 35px;
+  font-family: Formular;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  color: #4b721d;
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top: 50px;
+}
+.contacts {
+	width: 170px;
+  height: 35px;
+  font-family: Formular;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  color: #4b721d;
+}
+a {
+  text-decoration: none;
+}
+.header_in_main_page {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+}
+.clear { clear:both;
+}
+#muzhik img 
+{ float:left; margin:10px 30px 30px 30px; }
+.text_in_header {
+  margin-top: 15px;
+}
+}
+.muzhik {
+  width: 750px;
+  height: 360px;
+  margin-right: 30px;
+  margin-top: 48px;
+}
+.vkusno {
+  width: 360px;
+  height: 360px;
+  width: 30%;
+  margin-right: 30px;
+  margin-bottom: 100px;
+}
+.vceni {
+  width: 236.2px;
+  height: 39px;
+  font-family: Formular;
+  font-size: 32px;
+  font-weight: 500;
+  text-align: left;
+  color: #4b721d;
+  margin-left: 40px;
+}
+.morkov {
+  width: 263px;
+  height: 384px;
+  border-radius: 2px;
+  background-color: #fefefe;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.21);
+  margin: 30px;
+}
+.chipsi {
+  width: 263px;
+  height: 384px;
+  border-radius: 2px;
+  background-color: #fefefe;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.21);
+  margin: 30px;
+}
+.pomidori  {
+  width: 263px;
+  height: 384px;
+  border-radius: 2px;
+  background-color: #fefefe;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.21);
+  margin: 30px;
+}
+.sir {
+  width: 263px;
+  height: 384px;
+  border-radius: 2px;
+  background-color: #fefefe;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.21);
+  margin: 30px;
+}
+#taste_ideas {
+   width: 232.2px;
+  height: 39px;
+  font-family: Formular;
+  font-size: 32px;
+  font-weight: 500;
+  text-align: left;
+  color: #4b721d;
+  margin-left: 40px;
+}
+.example2 {
+    display:inline-block;   
+    position:relative;
+ 
+}
+.example2 span {
+    display:inline-block;
+    position:absolute;
+    top:130px;   
+    left:177px;
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px; 
+    margin-left: 50px;
+}
+
+
+
+
+
+.example3 {
+    display:inline-block;   
+    position:relative;
+    margin-left: 30px;
+    margin-bottom: 30px;
+ 
+}
+.example3 span {
+    display:inline-block;
+    position:absolute;
+    top:130px;   
+    left:177px;
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px; 
+    margin: 30px;
+}
+
+.example4 {
+    display:inline-block;   
+    position:relative;
+    margin: 30px;
+    margin-top: 0px;
+    width: 1200px;
+ 
+}
+.example4 span {
+    display:inline-block;
+    position:absolute;
+    top:177px;   
+    left:450px;
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px; 
+}
+
+
+.base {
+/*make it 100% width and a minimum of 1000px width*/
+width: auto;
+margin-left: -55px;
+margin-right: 30px;
+margin-top: -100px;
+min-width: 900px;
+padding: 0px;
+display: flex;
+justify-content: space-between;
+
+}
+.base-row {
+display: table-row;
+}
+.base li {
+display: table-cell;
+width: 25%;
+}
+.cell1 {
+background-color: #f00;
+}
+.cell2 {
+background-color: #0f0;
+}
+.cell3 {
+background-color: #00f;
+}
+ul {
+  margin-left: 30px;
+  margin-right: 30px;
+  padding: 30px;
+  justify-content: space-between;
+}
+.footer {
+  width: 1140px;
+  height: 309px;
+  background-color: rgb(193, 193, 193);
+}
+.internet_magazin {
+  width: 457px;
+  height: 156px;
+  font-family: Formular;
+  font-size: 21px;
+  text-align: left;
+  color: #666666;
+}
+
+.text-style-1 {
+  font-weight: 500;
+}
+
+
+
+
+.foot {
+/*make it 100% width and a minimum of 1000px width*/
+width: auto;
+margin-left: 30px;
+margin-right: 30px;
+min-width: 1000px;
+padding: 0px;
+display: flex;
+justify-content: space-between;
+
+}
+.foot1 {
+display: table-row;
+}
+.internet-magazin li {
+display: table-cell;
+width: 50%;
+}
+.int-mag {
+background-color: rgb(193, 193, 193);
+}
+
+.strike {
+  width: 52px;
+  height: 35px;
+  font-family: Formular;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: left;
+  color: rgb(193, 193, 193);
+  margin-left: 20px
+}
+.podderzhka {
+  width: 457px;
+  height: 156px;
+  font-family: Formular;
+  font-size: 21px;
+  text-align: left;
+  color: #666666;
+}
+
+.text-style-1 {
+  font-weight: 500;
+}
+
+footer {
+  position: absolute;
+}
+.podderzhka {
+  position: relative;
+  right: -600px;
+  bottom: 170px;
+}
+.NewPrice {
+  width: 130.6px;
+  height: 35px;
+  font-family: Formular;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: right;
+  color: #4b721d;
+  margin-left: 60px;
+}
+.text_on_img {
+  width: 356.3px;
+  height: 51px;
+  font-family: Formular;
+  font-size: 42px;
+  font-weight: bold;
+  text-align: left;
+  color: #ffffff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+.text_on_imge {
+  width: 600.4px;
+  height: 100px;
+  font-family: Formular;
+  font-size: 42px;
+  font-weight: bold;
+  text-align: left;
+  color: #ffffff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.example_beauty {
+  margin-left: 30px;
+}
+#logofooter {
+  margin-top: -30px;
+}
+.fig {
+  width: 188.2px;
+  height: 52px;
+  font-family: Formular;
+  font-size: 21px;
+  text-align: left;
+  color: #515151;
+}
+.Azbuka {
+  width: 945px;
+  height: 60px;
+  font-family: Formular;
+  font-size: 16px;
+  text-align: center;
+  color: #c3c3c3;
+  margin-top: 20px;
+}
